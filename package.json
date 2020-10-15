@@ -1,0 +1,23 @@
+{
+  "name": "readme.homework",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">README.md Generator Using Node.js 👋</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saman2052/Readme.homework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saman2052/Readme.homework/issues"
+  },
+  "homepage": "https://github.com/saman2052/Readme.homework#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {}
+}
